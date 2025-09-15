@@ -24,7 +24,7 @@ For demonstration purposes, you can use the following credentials to test each u
 |--------------|--------------------------|------------|
 | **Student**   | `john.doe@qu.com`        | `john123`  |
 | **Instructor**| `jane.doe@qu.com`        | `jane123`  |
-| **Admin**     | `admin.doe@qu.com`       | `admin123` |
+| **Admin**     | `admin@qu.com`       | `admin123` |
 
 Each role grants unique access to different features of the platform.
 
